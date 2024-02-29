@@ -1,0 +1,84 @@
+Model Version :: 2.00
+
+
+Total Test Files :: 10
+
+Test File Names :: ['1.txt', '2.txt', '3.txt', '4.txt', '5.txt', '6.txt', '7.txt', '8.txt', '9.txt', '10.txt']
+
+
+_________________________ Size Of Files _________________________ 
+
+1.txt :: 18774 bytes or 18.333984375 KB
+2.txt :: 29143 bytes or 28.4599609375 KB
+3.txt :: 13024 bytes or 12.71875 KB
+4.txt :: 17133 bytes or 16.7314453125 KB
+5.txt :: 11772 bytes or 11.49609375 KB
+6.txt :: 50537 bytes or 49.3525390625 KB
+7.txt :: 102180 bytes or 99.78515625 KB
+8.txt :: 204118 bytes or 199.333984375 KB
+9.txt :: 511274 bytes or 499.291015625 KB
+10.txt :: 1023385 bytes or 999.3994140625 KB
+
+
+_________________________ Characters In Each File _________________________ 
+
+1.txt :: 18257 bytes
+2.txt :: 28337 bytes
+3.txt :: 7500 bytes
+4.txt :: 9770 bytes
+5.txt :: 5863 bytes
+6.txt :: 50377 bytes
+7.txt :: 101854 bytes
+8.txt :: 203464 bytes
+9.txt :: 509621 bytes
+10.txt :: 1020075 bytes
+
+
+_________________________ Encryption Time Logs _________________________
+
+File      Time
+1.txt :: 0.5160403251647949 seconds
+2.txt :: 0.9200880527496338 seconds
+3.txt :: 1.8295748233795166 seconds
+4.txt :: 2.418955087661743 seconds
+5.txt :: 1.1409587860107422 seconds
+6.txt :: 1.7526485919952393 seconds
+7.txt :: 4.405633449554443 seconds
+8.txt :: 13.208343267440796 seconds
+9.txt :: 67.82420921325684 seconds
+10.txt :: 241.26315641403198 seconds
+
+
+_________________________ Decryption Time Logs _________________________
+
+File      Time
+1.txt :: 0.20296168327331543 seconds
+2.txt :: 0.28226685523986816 seconds
+3.txt :: 0.46935081481933594 seconds
+4.txt :: 0.5953433513641357 seconds
+5.txt :: 0.3441429138183594 seconds
+6.txt :: 0.45334506034851074 seconds
+7.txt :: 0.9191255569458008 seconds
+8.txt :: 1.797602653503418 seconds
+9.txt :: 4.438588619232178 seconds
+10.txt :: 8.526646137237549 seconds
+
+
+Total Time Elapsed :: 353.3245794773102 seconds
+
+
+_________________________ Decrypted Text == Actual Text _________________________
+
+File     Is_Equal
+1.txt :: Successful
+2.txt :: Successful
+3.txt :: Successful
+4.txt :: Successful
+5.txt :: Successful
+6.txt :: Successful
+7.txt :: Successful
+8.txt :: Successful
+9.txt :: Successful
+10.txt :: Successful
+
+

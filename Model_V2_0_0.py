@@ -342,7 +342,6 @@ class BARS:
 
 
 if __name__ == '__main__':
-    # pass
     import time as t
     from natsort import natsorted
 
